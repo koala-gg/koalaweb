@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[948],{6294:function(a){a.exports=JSON.parse('{"allTagsPath":"/koalaweb/blog/tags","name":"discord","count":1,"permalink":"/koalaweb/blog/tags/discord"}')}}]);
